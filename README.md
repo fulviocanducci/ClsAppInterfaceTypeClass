@@ -1,0 +1,3 @@
+# ClsAppInterfaceTypeClass
+
+ClsAppInterfaceTypeClass
