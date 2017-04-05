@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Models\DalTransaction.cs" />
+    <Compile Include="Models\ITransaction.cs" />
+    <Compile Include="Models\TransactionChip.cs" />
+    <Compile Include="Models\TransactionTarja.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
